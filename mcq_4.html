@@ -658,6 +658,7 @@
                     complete: function(results) {
                         if (results.errors.length > 0) {
                             app.showError('Error parsing CSV: ' + results.errors[0].message);
+                            console.log("results.errors: ", results.errors);
                             return;
                         }
                         app.loadQuestions(results.data.filter(row => row.question && row.question.trim()));
@@ -674,6 +675,7 @@
                     complete: function(results) {
                         if (results.errors.length > 0) {
                             app.showError('Error parsing CSV from URL: ' + results.errors[0].message);
+                            console.log("results.errors: ", results.errors);
                             return;
                         }
                         app.loadQuestions(results.data.filter(row => row.question && row.question.trim()));

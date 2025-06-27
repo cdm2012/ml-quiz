@@ -30,7 +30,7 @@ question,answer,option_a,option_b,option_c,option_d
 "How can you visualize missing data patterns in a dataset?",B,"Histogram","Heatmap","ROC Curve","Box plot"
 "What role do attention mechanisms play in NLP?",A,"Focus on relevant input parts","Generate outputs","Backpropagate loss","Embed documents"
 "What is the consequence of leakage in model training?",C,"Faster training","Overfitting","Unrealistically high performance","Poor recall"
-"How can an organization track model performance in production?",D,"SHAP,"LIME","NBStats","MLflow"
+"How can an organization track model performance in production?",D,"SHAP","LIME","NBStats","MLflow"
 "What makes a model 'interpretable'?",B,"High recall","Transparency in decision logic","Low bias","High speed"
 "Which Python library is best for time series modeling?",C,"Seaborn","NLTK","statsmodels","XGBoost"
 "Which dimensionality reduction method preserves non-linear relationships?",A,"T-SNE","PCA","ZCA","Box-Cox"
