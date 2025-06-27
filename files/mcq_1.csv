@@ -1,0 +1,51 @@
+question,answer,option_a,option_b,option_c,option_d
+What is the primary goal of underwriting in insurance?,A,Assess risk,Set premiums,Pay claims,Reduce fraud
+Which term refers to the amount paid by the insured before the insurer pays?,C,Premium,Coverage,Deductible,Claim
+Which type of insurance covers damage to another person’s vehicle?,B,Comprehensive,Third-party,Collision,Life
+What is reinsurance used for?,A,Transfer risk from insurer to reinsurer,Collect premiums,Generate leads,Determine deductibles
+Which metric best indicates customer churn in insurance?,C,Loss ratio,Claim frequency,Policy lapse rate,Underwriting score
+Which law regulates health insurance in the US?,D,Medicare,Medicaid,COBRA,Affordable Care Act
+What does a high loss ratio indicate?,B,High claims relative to premiums,Profitable portfolio,Good underwriting,Low risk
+What is the purpose of a deductible?,A,Reduce small claims,Maximize payout,Increase premiums,Attract customers
+What role does an actuary play?,C,Set pricing based on risk,Approve claims,Analyze statistical data,Manage agents
+Which product is typically offered as a rider?,D,Home insurance,Auto insurance,Travel insurance,Critical illness
+Which of the following is a supervised learning algorithm?,A,Linear Regression,K-means,DBSCAN,PCA
+What does overfitting refer to?,C,Too simple model,Too little data,Fits training but fails test,Fails both sets
+Which technique is used to reduce variance?,B,Bagging,Regularization,SMOTE,Gradient Boosting
+What is the primary goal of clustering?,D,Classification,Prediction,Regression,Grouping similar data
+Which evaluation metric is suitable for imbalanced classification?,C,Accuracy,MAE,F1-score,R2
+Which algorithm uses distance metrics?,A,K-Nearest Neighbors,Naive Bayes,Random Forest,Logistic Regression
+Which method is used to select the best model hyperparameters?,D,Ensembling,Stacking,Cross-validation,Grid search
+What is the output of a classification model?,B,Label,Class,Cluster,Group
+Which of the following is a tree-based model?,A,Decision Tree,KNN,PCA,SVM
+What does ROC curve plot?,C,Precision-Recall,Recall-Sensitivity,TPR vs FPR,Loss function
+Which data structure is mutable and ordered?,B,Tuple,List,Set,Dict
+"What does `len([1,2,3])` return?",A,3,2,1,4
+"What is the result of `set([1,2,2,3])`?",D,"{1,2,2,3}","{1,1,2,3}","{2,3}","{1,2,3}"
+Which function is used to iterate over a sequence with an index?,C,map,zip,enumerate,filter
+What is a lambda function?,A,Anonymous function,Class method,List comprehension,Exception
+Which keyword is used to handle exceptions?,B,try,except,handle,finally
+What does `range(5)` return?,D,0 to 5,1 to 5,1 to 6,0 to 4
+Which module is used for regular expressions?,C,math,json,re,os
+Which of these creates a dictionary?,A,{"a":1},"[1,2]","(1,2)","set([1,2])"
+Which is a correct list comprehension syntax?,B,[x for x in range(5)],x in range(5),list(x),[range(5)]
+Which AWS service is used for scalable object storage?,A,S3,EC2,RDS,Lambda
+Which service automates CI/CD in AWS?,D,DynamoDB,Redshift,EBS,CodePipeline
+Which Azure service is equivalent to AWS EC2?,C,Blob Storage,Function App,Virtual Machine,App Gateway
+Which GCP service is used for training ML models?,B,Cloud Pub/Sub,Vertex AI,BigQuery,App Engine
+What is a VPC?,A,Virtual Private Cloud,Virtual Public Cloud,Verified Public Cluster,Virtualized Policy Cloud
+What is the purpose of IAM in cloud platforms?,C,Logging,Monitoring,Access management,Networking
+Which storage is best for structured relational data?,D,S3,Firestore,Cosmos DB,RDS
+Which service supports serverless architecture?,B,EC2,Lambda,EBS,S3
+Which cloud model gives most control to user?,A,IaaS,PaaS,SaaS,FaaS
+Which GCP product is used for querying large datasets?,D,Cloud Storage,Firestore,Dataproc,BigQuery
+Which library is best for NLP tasks in Python?,B,OpenCV,SpaCy,Matplotlib,TensorFlow
+What is tokenization?,A,Splitting text into words,Classifying data,Removing stopwords,Converting text to numbers
+Which embedding method uses context?,C,TF-IDF,Count Vector,BERT,One-hot
+What does NER stand for?,D,Named Entity Recognition,Normal Entity Resolver,Next Entity Ratio,Named Entity Recognition
+Which model generates summaries?,A,TextRank,KMeans,LDA,XGBoost
+Which of these is a language model?,B,Naive Bayes,GPT,Decision Tree,KMeans
+What is stopword removal?,C,Removing punctuation,Normalizing text,Removing common words,Removing verbs
+Which metric measures BLEU score?,D,NLP generation quality,Text classification,Word embeddings,Machine translation accuracy
+Which library supports sentiment analysis?,A,TextBlob,NumPy,OpenCV,Matplotlib
+What is the output of POS tagging?,B,Parts of speech,Named entities,Embeddings,Document class
